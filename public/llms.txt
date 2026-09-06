@@ -1,0 +1,9 @@
+# Aesthetique Clinic
+
+> Premium hair restoration and aesthetic clinic offering bespoke FUE, FUT and PRP therapy delivered by board-certified surgeons.
+
+## Pages
+
+- [Home](/): Overview of the clinic, results gallery, doctor profile, patient journey and FAQs.
+- [Treatments](/treatments): Full menu of hair restoration and aesthetic services with details on duration and recovery.
+- [Book a Consultation](/book-consultation): Free 3-step booking form to schedule a confidential consultation.
